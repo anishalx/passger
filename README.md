@@ -28,17 +28,18 @@ python3 --version
          Grab the code from GitHub and navigate into the project directory:
   ```bash
   sudo apt install git
-  
+  ```
+  ```bash
   git clone https://github.com/anishalx/passger.git
   
-  cd password-manager
+  cd passger && ls
   ```
 - **2**. Run the Script.
          We’ve included a Bash script for a smooth launch:
   ```bash
-  chmod +x run_passger.sh
+  chmod +x passger.sh
   
-  ./run_passger.sh
+  ./passger.sh
   ```
   This will start the password_manager.py script and open the password manager interface.
 - - -
