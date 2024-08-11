@@ -81,6 +81,6 @@ python3 --version
 
 <b>Feel free to reach out if you have any questions or suggestions.</b>
 - **Email**: anishalx7@gmail.com
-- **Twitter**: anishalx7
+- **[Twitter](https://x.com/anishalx7)**
 
 - - -
