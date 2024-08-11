@@ -61,6 +61,15 @@ python3 --version
    Launch the application:
    
    <p align="center"><img src="https://www.imghost.net/ib/DdZGpw7QSI4nasr_1723372409.png" alt="Screenshot from 2024-08-11 16-02-24.png" width="50%" height="30%"/></p> 
-   
+
+<b>✨ Add a New Password</b>
+  <p align="center"><img src="https://www.imghost.net/ib/aVFFMfqk4NysMhu_1723398125.png" width="50%" height="30%"/></p> 
+
+<b>🔍 Retrieve a Password</b>
+  <p align="center"><img src="https://www.imghost.net/ib/NMjixGJiksP1yAH_1723398491.png" width="50%" height="30%"/></p> 
+
+<b>🚪 Exit</b>
+  <p align="center"><img src="https://www.imghost.net/ib/nCZ8XCjB0isYJXA_1723398352.png" width="50%" height="30%"/></p> 
+  
 - - -
  
