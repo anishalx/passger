@@ -104,4 +104,3 @@ if __name__ == "__main__":
     key = generate_key(master_password)
     passwords = load_passwords(key)
     show_menu(passwords, key)
-
