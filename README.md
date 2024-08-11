@@ -60,6 +60,8 @@ python3 --version
 ## 📋 Example
    Launch the application:
    
+      [NOTE:- Don't forget your master password, if you forget it, you will not be able to recover it.]
+   
    <p align="center"><img src="https://www.imghost.net/ib/DdZGpw7QSI4nasr_1723372409.png" alt="Screenshot from 2024-08-11 16-02-24.png" width="50%" height="30%"/></p> 
 
 <b>✨ Add a New Password</b>
@@ -72,4 +74,13 @@ python3 --version
   <p align="center"><img src="https://www.imghost.net/ib/nCZ8XCjB0isYJXA_1723398352.png" width="50%" height="30%"/></p> 
   
 - - -
- 
+### 📝 License
+
+<b>This project is licensed under the MIT License - see the LICENSE file for details.</b>
+### 📧 Contact
+
+<b>Feel free to reach out if you have any questions or suggestions.</b>
+- **Email**: anishalx7@gmail.com
+- **Twitter**: anishalx7
+
+- - -
