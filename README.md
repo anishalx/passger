@@ -81,7 +81,7 @@ python3 --version
 ### 📧 Contact
 
 <b>Feel free to reach out if you have any questions or suggestions.</b>
-- **Email**: anishalx7@gmail.com
+- **<a href="mailto:anishalx7@gmail.com" class="btn">Email Me</a>**
 - **[Twitter](https://x.com/anishalx7)**
 
 - - -
